@@ -1,19 +1,14 @@
-# Emotion Detector
+# Final Project
 
-## Project Name
-Emotion Detector
+## Emotion Detector
 
-## Project Description
-This project is a web application that detects emotions from text using IBM Watson AI technology.
+This project is a Flask web application that uses Watson NLP to detect emotions from text.
 
 ## Technologies Used
+
 - Python
 - Flask
-- IBM Watson AI
+- Watson NLP
 - HTML
 - CSS
 - JavaScript
-
-## Project Objective
-The objective of this project is to develop an AI-powered application that analyzes text and identifies emotions such as anger, disgust, fear, joy, and sadness.
-
